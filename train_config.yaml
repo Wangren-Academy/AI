@@ -1,0 +1,22 @@
+# 训练配置
+output_dir: "./experiment"
+seed: 42
+
+# 数据路径
+data_path: "./tiny_corpus.txt"
+train_split: 0.9
+block_size: 64
+
+# 训练超参数
+batch_size: 4
+learning_rate: 5e-4
+weight_decay: 0.01
+num_epochs: 3
+warmup_steps: 5
+logging_steps: 1
+eval_steps: 20
+save_steps: 20
+
+# 优化器
+optimizer: "adamw_torch"
+lr_scheduler: "linear"

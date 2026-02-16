@@ -1,0 +1,10 @@
+# Minimal requirements for the tiny-llm notebook
+torch
+transformers
+datasets
+accelerate
+pyyaml
+tqdm
+jupyter
+ipykernel
+matplotlib  # optional, needed only for plotting

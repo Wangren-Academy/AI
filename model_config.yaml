@@ -1,0 +1,10 @@
+# 微型 GPT 配置
+model_name: "tiny-gpt"
+# 与使用的分词器匹配（GPT-2 标准词表大小）。如果你使用自定义小词表，请改回相应值。
+vocab_size: 50257               # 词汇表大小（GPT-2 默认）
+max_position_embeddings: 64     # 最大序列长度
+hidden_size: 128                # 隐藏层维度
+num_hidden_layers: 2            # Transformer 层数
+num_attention_heads: 2          # 注意力头数
+intermediate_size: 256          # FFN 中间层维度
+dropout: 0.1

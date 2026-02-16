@@ -1,0 +1,30 @@
+hello world
+how are you
+i am fine
+what is your name
+my name is ai
+i like learning
+today is sunny
+let us train a model
+this is a tiny corpus
+machine learning is fun
+transformers are powerful
+attention is all you need
+deep learning is interesting
+we like experiments
+data matters
+small steps lead to big results
+practice makes perfect
+keep coding
+try and learn
+simple examples help
+understand the basics
+read the docs
+test the model
+write small scripts
+debug step by step
+explore ideas
+share knowledge
+iterate quickly
+learn continuously
+be curious
