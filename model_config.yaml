@@ -8,3 +8,4 @@ num_hidden_layers: 2            # Transformer 层数
 num_attention_heads: 2          # 注意力头数
 intermediate_size: 256          # FFN 中间层维度
 dropout: 0.1
+loss_type: ForCausalLMLoss
