@@ -1,4 +1,3 @@
-# Minimal requirements for the tiny-llm notebook
 torch
 transformers
 datasets
@@ -7,4 +6,4 @@ pyyaml
 tqdm
 jupyter
 ipykernel
-matplotlib  # optional, needed only for plotting
+matplotlib
